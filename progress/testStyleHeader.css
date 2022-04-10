@@ -1,0 +1,28 @@
+hr{
+  position: relative;
+        top: 0px;
+        border: none;
+        height: 12px;
+        background: rgb(252, 9, 9);
+        margin-bottom: 50px;
+}
+
+img
+{
+  width: 200px;
+  height: auto;
+  margin: 0%;
+  padding: 0%;
+}
+
+#pageName
+{
+  color: white;
+  font-family: Marcellus SC;
+  font-variant: small-caps;
+  font-size: 60px;
+  margin: auto;
+  padding: auto;
+  text-align: center;
+  
+}

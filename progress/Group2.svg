@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="901" height="681" viewBox="0 0 901 681">
+  <defs>
+    <filter id="Path_1" x="0" y="0" width="503" height="681" filterUnits="userSpaceOnUse">
+      <feOffset dx="-25" dy="32" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="28" result="blur"/>
+      <feFlood flood-color="#0c0303" flood-opacity="0.69"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="4.702" y1="0.227" x2="-10.904" y2="1.813" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#010101"/>
+      <stop offset="1" stop-color="#4e4a4a" stop-opacity="0.859"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(-69 -366)">
+    <g transform="matrix(1, 0, 0, 1, 69, 366)" filter="url(#Path_1)">
+      <g id="Path_1-2" data-name="Path 1" transform="translate(109 52)" fill="none">
+        <path d="M0,0H335V513H0Z" stroke="none"/>
+        <path d="M 30 30 L 30 483 L 305 483 L 305 30 L 30 30 M 0 0 L 335 0 L 335 513 L 0 513 L 0 0 Z" stroke="none" fill="#1a55a4"/>
+      </g>
+    </g>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="33" height="246" transform="translate(482 525)" fill="url(#linear-gradient)"/>
+    <g id="quote1" transform="translate(20 88)">
+      <text id="unbelievable_low_price" data-name="unbelievable low price" transform="translate(205 473)" fill="#fff" font-size="37" font-family="NotoSans, Noto Sans" letter-spacing="-0.045em"><tspan x="0" y="0">Unbelievable </tspan><tspan y="0" font-family="MarcellusSC-Regular, Marcellus SC">Low Price</tspan></text>
+      <text id="buy_Now_" data-name="buy Now!" transform="translate(205 726)" fill="#fff" font-size="37" font-family="MarcellusSC-Regular, Marcellus SC" letter-spacing="-0.045em"><tspan x="0" y="0">Buy Now!</tspan></text>
+      <text id="sunglass_for_MENS_WOMENS" data-name="sunglass for
+MENS &amp;WOMENS" transform="translate(205 565)" fill="#fff" font-size="88" font-family="FelixTitlingMT, Felix Titling"><tspan x="0" y="0">sunglass for</tspan><tspan x="0" y="103">MENS &amp;WOMENS</tspan></text>
+    </g>
+  </g>
+</svg>

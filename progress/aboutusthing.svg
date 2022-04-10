@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="702" height="884" viewBox="0 0 702 884">
+  <defs>
+    <filter id="Rectangle_10" x="0" y="0" width="517" height="884" filterUnits="userSpaceOnUse">
+      <feOffset dx="-25" dy="32" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="28" result="blur"/>
+      <feFlood flood-color="#fff" flood-opacity="0.22"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="aboutusthing" transform="translate(-921 -1322)">
+    <g transform="matrix(1, 0, 0, 1, 921, 1322)" filter="url(#Rectangle_10)">
+      <g id="Rectangle_10-2" data-name="Rectangle 10" transform="translate(109 52)" fill="none" stroke="#1a55a4" stroke-width="30">
+        <rect width="349" height="716" stroke="none"/>
+        <rect x="15" y="15" width="319" height="686" fill="none"/>
+      </g>
+    </g>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="243" height="503" rx="5" transform="translate(1230 1497)" fill="#010101"/>
+    <text id="The_Vision_Center_Group_of_Companies_has_built_a_reputation_as_one_of_the_best_eye_care_solution_providers_in_Sri_Lanka_by_using_an_innovative_approach_and_state-of-the-art_equipment_to_ensure_that_customers_receive_world-class_eye_care_at_all_branch" data-name="The Vision Center Group of Companies has built a 
+reputation as one of the best eye care solution 
+providers in Sri Lanka by using an innovative 
+approach and state-of-the-art equipment to 
+ensure that customers receive world-class eye  
+care at all branch" transform="translate(1135 1523)" fill="#6c7684" font-size="22" font-family="MVBoli, MV Boli" letter-spacing="-0.045em"><tspan x="0" y="0">The Vision Center Group of Companies has built a </tspan><tspan x="0" y="35">reputation as one of the best eye care solution </tspan><tspan x="0" y="70">providers in Sri Lanka by using an innovative </tspan><tspan x="0" y="105">approach and state-of-the-art equipment to </tspan><tspan x="0" y="140" xml:space="preserve">ensure that customers receive world-class eye  </tspan><tspan x="0" y="175">care at all branches. During our nearly 30 years </tspan><tspan x="0" y="210">of operations, we have successfully become the </tspan><tspan x="0" y="245">first company in Sri Lanka to bring the local eye </tspan><tspan x="0" y="280">care industry on par with global standards. We </tspan><tspan x="0" y="315">have also pioneered the introduction of the best </tspan><tspan x="0" y="350">range of eyewear brands recognized globally to </tspan><tspan x="0" y="385">the local market. Our high quality, high precision </tspan><tspan x="0" y="420">contact lenses, optical and ophthalmic products </tspan><tspan x="0" y="455">are available at all Vision Center outlets.</tspan></text>
+  </g>
+</svg>

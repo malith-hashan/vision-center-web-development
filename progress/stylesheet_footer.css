@@ -1,0 +1,38 @@
+#txt_signup_newslet
+{
+  font-family: Marcellus SC;
+  font-variant: small-caps;
+  line-height: 80%;
+}
+
+#boder_round{
+  border-radius: 50px;
+  border-color:#707070;
+  
+}
+
+#button_submit
+{
+  font-family: Marcellus SC;
+  background: rgb(0,0,0);
+  background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(51,50,50,1) 100%);
+  border-style: none;
+  font-size: 16px;
+}
+
+
+#footer
+{
+  background: rgb(31,31,31);
+background: linear-gradient(180deg, rgba(31,31,31,1) 0%, rgba(109,108,108,1) 100%);
+color: white !important;
+}
+
+#logo
+{ margin: auto;
+  
+  margin-top: -50px;
+
+
+  width: 280px;
+}

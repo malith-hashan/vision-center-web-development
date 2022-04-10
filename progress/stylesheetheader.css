@@ -1,0 +1,142 @@
+#navbar {
+  
+  background-color: #1d1b1be8;
+  opacity: 95%;
+  position: fixed;
+  top: -180px;
+  width: 100%;
+  
+  transition: top 0.6s;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  /*padding: 15px;*/
+  text-decoration: none;
+  
+}
+
+#navbar a:hover {
+ 
+  color: black;
+}
+
+#MARGIN /* upper header*/ 
+{
+  padding-left: 35%;
+}
+#paddingloose  /* upper header*/ 
+{
+  padding-top: 0%;
+  padding-bottom: 0%;
+}
+
+#iconSize /* upper header*/ 
+{
+  font-size: 15px;
+  
+}
+
+
+
+
+
+
+#whiteLine
+{
+  background-color:red;
+  width: auto;
+  height: 3px;
+}
+
+#logo2
+{
+  height: 200px;
+  width: 220px;
+  background-color: black;
+  padding-left: 12px;
+  padding-bottom: 24px;
+}
+#pageTopic
+{
+  margin-top:60px;
+  font-family:Marcellus SC;
+  font-size: 60px;
+  color: white;
+}
+
+@media screen and (max-width:576px) 
+{
+ #pageTopic
+  {
+    font-size: 50px ;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    
+
+
+  }
+  #logo2
+{
+  height: 100px;
+  width: 110px;
+  background-color: black;
+  padding-left:2px;
+  padding-bottom: 2px;
+  margin-left: auto;
+  margin-right: auto;
+  
+    margin-top: 5px;
+    display: block;
+
+}
+
+
+  
+}
+
+
+
+
+
+
+
+
+hr{
+  position: relative;
+        top: 0px;
+        border: none;
+        height: 102px;
+        background: rgb(255, 255, 255);
+        margin-bottom: 50px;
+}
+
+img
+{
+  width: 200px;
+  height: auto;
+  margin-top: -50px;
+  
+  padding-bottom: 12px;
+}
+
+#pageName
+{
+  color: white;
+  font-family: Marcellus SC;
+  font-variant: small-caps;
+  font-size: 60px;
+  margin: auto;
+  padding: auto;
+  text-align: center;
+  
+}
+  
+
+
+
+
